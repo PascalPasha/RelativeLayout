@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="temail">Email</string>
+    <string name="tRegistrasi">Registrasi</string>
+    <string name="tNama">Nama</string>
+    <string name="tTTL">Tempat, Tanggal Lahir</string>
+    <string name="tAlamat">Alamat</string>
+    <string name="txbtnRegis">Registrasi</string>
+</resources>
